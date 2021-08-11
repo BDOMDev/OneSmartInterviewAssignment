@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">One Smart Interview Assignment</string>
+
+    <string name="dashboard">Dashboards</string>
+    <string name="scene">Scene</string>
+    <string name="living_room_dashboard">Living Room Dashboard</string>
+
 </resources>

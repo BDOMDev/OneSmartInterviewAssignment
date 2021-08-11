@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Oshan/Documents/Workspace/OneSmartInterviewAssignment/app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/Users/Oshan/Documents/Workspace/OneSmartInterviewAssignment/app/src/main/res/drawable/shape_active_button.xml" value="0.5578125" />
+        <entry key="..\:/Users/Oshan/Documents/Workspace/OneSmartInterviewAssignment/app/src/main/res/drawable/shape_inactive_button.xml" value="0.5578125" />
+        <entry key="..\:/Users/Oshan/Documents/Workspace/OneSmartInterviewAssignment/app/src/main/res/drawable/shape_linear_gradient.xml" value="0.5578125" />
+        <entry key="..\:/Users/Oshan/Documents/Workspace/OneSmartInterviewAssignment/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Oshan/Documents/Workspace/OneSmartInterviewAssignment/app/src/main/res/layout/fragment_dashboards.xml" value="0.5276041666666667" />
+        <entry key="..\:/Users/Oshan/Documents/Workspace/OneSmartInterviewAssignment/app/src/main/res/layout/fragment_scene.xml" value="0.5416666666666666" />
+        <entry key="..\:/Users/Oshan/Documents/Workspace/OneSmartInterviewAssignment/app/src/main/res/layout/item_dashboard.xml" value="0.5416666666666666" />
       </map>
     </option>
   </component>
