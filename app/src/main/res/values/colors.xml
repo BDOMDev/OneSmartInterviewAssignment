@@ -13,6 +13,13 @@
     <color name="gray">#9B9B9B</color>
 
     <color name="black_font">#333942</color>
-    <color name="gray_divider">#E4E4E4</color>
+    <color name="gray_divider">#D8D8D8</color>
     <color name="gray_gradient_color">#979797</color>
+    <color name="add_dashboard_button_color">#C8C8C8</color>
+
+    <color name="activity_background">#F3F3F3</color>
+
+    <color name="device_name_color">#4A4A4A</color>
+    <color name="device_dashboard_name_color">#9B9B9B</color>
+    <color name="fab_icon_color">#FF5722</color>
 </resources>

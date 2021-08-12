@@ -25,6 +25,7 @@ class HomeActivity : AppCompatActivity() {
     }
 
     private fun configUI() {
+        viewBindings.mainViewPager.isUserInputEnabled = false
         viewBindings.mainViewPager.adapter = MainFragmentPagerAdapter(this)
     }
 
